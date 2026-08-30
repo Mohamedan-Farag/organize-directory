@@ -16,4 +16,4 @@ python organize_directory.py path/to/your/downloads/directory path/to/the/subdir
 ```
 
 ### License
-📁 Directory Organizer is open-source and licensed under the MIT license.
+📁 Directory Organizer is open-source and licensed under the MIT license. <3
