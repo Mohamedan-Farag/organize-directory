@@ -7,7 +7,7 @@ git clone https://github.com/Mohamedan-Farag/organize-directory
 cd organize-directory
 ```
 
-### Requirements
+## Requirements
 📁 Directory Organizer requires Python 3.6+
 
 ## Usage
